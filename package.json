@@ -1,0 +1,14 @@
+{
+  "name": "bk-publish-1810",
+  "version": "0.0.1",
+  "description": "A test pageage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "bk-1810"
+  ],
+  "author": "jiang",
+  "license": "MIT"
+}
